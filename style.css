@@ -411,7 +411,8 @@
     .bottomp {
         margin-bottom: 25px;
         color: white;
-        font-size: 22px;
+         font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
     }
 
     span {
@@ -473,6 +474,7 @@
     /* footer */
 
     .footer {
+         font-family: Arial, Helvetica, sans-serif;
         background: black;
         min-height: 60vh;
         color: #737373;
@@ -502,7 +504,7 @@
 
     .footer-content {
 
-        padding: 50px 475px 10px 300px;
+        padding: 50px 370px 10px 300px;
     }
 
     .hed {
